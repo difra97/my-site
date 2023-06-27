@@ -68,7 +68,7 @@ body {
         padding: 20px;
     }
     
-    input[type="button"] {
+    input[type="submit"] {
         margin-top: 30px;
     }
     
@@ -147,7 +147,7 @@ body {
         padding: 20px;
     }
     
-    input[type="button"] {
+    input[type="submit"] {
         margin-top: 30px;
     }
     
@@ -220,7 +220,7 @@ body {
             font-family: 'Jura', sans-serif;
         }
     
-        input[type="button"] {
+        input[type="submit"] {
             margin-top: 30px;
         }
     
