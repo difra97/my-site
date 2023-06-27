@@ -1,0 +1,286 @@
+body {
+    background-color: floralwhite;
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+
+.left {
+    height: fit-content;
+    
+}
+
+.right {
+    height: fit-content;
+    margin-bottom: 50px;
+    
+}
+
+.titleone {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Jura', sans-serif;
+}
+
+.immhtml {
+height: 150px;
+width: auto;
+}
+
+.titleleft {
+    font-family: 'Jura', sans-serif;
+    margin-left: 24px;
+    
+
+}
+
+.titleleft {
+    margin-top: 20px;
+}
+
+.list {
+    font-family: 'Jura', sans-serif;
+    line-height: 35px;
+    margin-bottom: 50px;
+
+}
+
+.immhtml,
+.immcss,
+.immboot,
+.immcanva {
+    height: 150px;
+    width: auto;
+}
+
+h3, h1, p {
+    font-family: 'Jura', sans-serif;
+
+}
+
+.articletwo p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.articletwo img,
+.articletwo p {
+    margin-top: 30px;
+}
+
+.articletwo h2 {
+    margin-top: 50px;
+}
+
+img {
+    width: fit-content;
+}
+}
+
+@media screen and (min-width: 480px) and (max-width: 947px) {
+.articleone {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.left {
+    height: fit-content;
+    margin-left: 30px;
+    flex: 1;
+    text-align: left;
+    
+}
+
+.right {
+    height: fit-content;
+    text-align: left;
+    margin-right: 30px;
+    margin-left: 20px;
+    flex: 3;
+    
+}
+
+.titleone {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 35px;
+    font-family: 'Jura', sans-serif;
+}
+
+img {
+    width: fit-content;
+}
+
+.titleleft, h3, p {
+    font-family: 'Jura', sans-serif;
+    margin-left: 24px;
+
+}
+
+.titleleft {
+    margin-top: 20px;
+}
+
+.list {
+    font-family: 'Jura', sans-serif;
+    line-height: 35px;
+    margin-bottom: 50px;
+}
+
+
+.immhtml,
+.immcss,
+.immboot,
+.immcanva {
+height: 150px;
+width: auto;
+}
+
+h1 {
+    margin-top: 80px;
+    font-family: 'Jura', sans-serif;
+}
+
+.articletwo p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.articletwo img,
+.articletwo p {
+    margin-top: 30px;
+}
+
+.articletwo h2 {
+    margin-top: 50px;
+}
+}
+
+@media screen and (min-width: 947px) {
+
+.articleone {
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.left {
+    height: fit-content;
+    margin-left: 30px;
+    flex: 1;
+    text-align: left;
+    
+    
+}
+
+.right {
+    height: fit-content;
+    margin-right: 30px;
+    text-align: left;
+    margin-left: 180px;
+    flex: 3;
+    
+    
+}
+
+.titleone {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 35px;
+    font-family: 'Jura', sans-serif;
+}
+
+img {
+    width: fit-content;
+}
+
+.titleleft, h3, p {
+    font-family: 'Jura', sans-serif;
+    margin-left: 24px;
+    
+    
+
+}
+
+.titleleft {
+    margin-top: 20px;
+}
+
+.list {
+    font-family: 'Jura', sans-serif;
+    line-height: 35px;
+    margin-bottom: 50px;
+    
+    
+}
+
+h1 {
+    font-family: 'Jura', sans-serif;
+    font-size: 35px;
+    margin-bottom: 50px;
+    
+    
+
+}
+
+.immhtml,
+.immcss,
+.immcanva,
+.immboot {
+  height: 150px;
+  width: auto;
+
+}
+
+.articletwo {
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    
+
+}
+
+.skillone {
+    height: 500px;
+    text-align: center;
+    flex: 1;
+    
+}
+
+.skilltwo {
+    height: 500px;
+    text-align: center;
+    flex: 1;
+    
+}
+
+.skillthree {
+    height: 500px;
+    text-align: center;
+    flex: 1;
+    
+}
+
+.skillfour {
+    height: 500px;
+    text-align: center;
+    flex: 1;
+    
+}
+
+.skillfour p {
+    margin-right: 20px;
+}
+
+.articletwo img,
+.articletwo p {
+    margin-top: 30px;
+}
+
+.articletwo h2 {
+    margin-top: 50px;
+}
+}
