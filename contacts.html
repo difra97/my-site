@@ -51,12 +51,13 @@
 
         </section>
         <section>
-
+        <form>
+         
             <div id="form">
                 
                 <div class="input">
                     <span class="title">Nome</span>
-                    <input type="text" id="nome" placeholder="Mario Rossi">
+                    <input type="text" id="nome" placeholder="Mario Rossi" required>
                 </div>
                 <div class="input">
                     <span class="title">E-mail</span>
@@ -70,11 +71,12 @@
                     <span class="title">Messaggio</span>
                     <textarea name="text" id="mex" placeholder="Scrivi la tua richiesta" required></textarea>
                 </div>
-                <input class="btn btn-primary btn-lg"onclick="sendMail()" type="button" value="Invia">
+                <input class="btn btn-primary btn-lg" type="submit" value="Invia">
                 
               
             </div>
 
+        </form>
         </section>
     </main>
 
